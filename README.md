@@ -65,17 +65,6 @@ myBulb.classList.toggle("active");
 - CHALLENGE PUZZLE: Add more bulbs to the page and get one bulb to turn off multiple bulbs. For example, if you click bulb 1 it alters the class of bulbs 1, 2, and 5.
 </p>
 <div align="center">
-  <h2>Screenshot</h2>
-  <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
-    style="max-width: 100%;" title="Gradient Separator">
-</div>
-<br>
-<p align="center">
-  <img src="./img/screenshot.png"
-    alt="A screenshot of Template"
-    draggable="false" title="Screenshot" width="50%">
-</p>
-<div align="center">
   <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
     style="max-width: 100%;" title="Gradient Separator">
 </div>
