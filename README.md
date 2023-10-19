@@ -1,4 +1,21 @@
-# Lightbulb Selectors
+<h1 align="center">Lightbulb Selectors</h1>
+<div align="center">
+  <h2>Background</h2>
+  <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
+    style="max-width: 100%;" title="Gradient Separator">
+</div>
+<br>
+<p>
+  👨‍💻 This repository was created as a part of my <a href="https://www.multiverse.io/en-GB/programmes/software-engineering" draggable="false">Multiverse Bootcamp</a>
+</p>
+<div align="center">
+  <h2>Original README</h2>
+  <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
+    style="max-width: 100%;" title="Gradient Separator">
+</div>
+<br>
+<p>
+  <strong><em>Lightbulb Selectors</em></strong>
 
 **GOAL**: Today we are going to add event listeners to our web pages in order to create an app that:
 - Turns a light on and off when clicked.
@@ -46,3 +63,24 @@ myBulb.classList.toggle("active");
 - Rewrite this code to make any object active if your mouse has entered the object. Then add functionality for if your mouse exits the object.
 - Research how to use `document.querySelectorAll` to select all the lightbulbs rather than writing `document.querySelector()` three times.
 - CHALLENGE PUZZLE: Add more bulbs to the page and get one bulb to turn off multiple bulbs. For example, if you click bulb 1 it alters the class of bulbs 1, 2, and 5.
+</p>
+<div align="center">
+  <h2>Screenshot</h2>
+  <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
+    style="max-width: 100%;" title="Gradient Separator">
+</div>
+<br>
+<p align="center">
+  <img src="./img/screenshot.png"
+    alt="A screenshot of Template"
+    draggable="false" title="Screenshot" width="50%">
+</p>
+<div align="center">
+  <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
+    style="max-width: 100%;" title="Gradient Separator">
+</div>
+<br>
+<div align="center">
+  <img src="./img/madebycaydn.svg" alt="A badge showing that this was 'Made by Caydn'" draggable="false"
+    title="Made by Caydn">
+</div>
